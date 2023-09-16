@@ -2,10 +2,13 @@
 
 Data Analysis of Olist Store (Brazilian E-Commerce)
 
+Got data stored as CSV file so uploaded it to BigQuery for exploratory analysis, then created a Query to build a dashboard with Looker Studio.
+
 Análise de Dados da Olist Store, um e-commerce brasileiro
 
-Got data stored as CSV file so uploaded it to BigQuery for exploratory analysis,
-then created a Query to build a dashboard with Looker Studio.
+Peguei os dados como CSV, carreguei para o BigQuery onde fiz análises exploratórias e em sequência escrevi uma Query para construir um relatório.
+
+SQL Query moved to Looker Studio.
 
 ```SQL
 SELECT  
