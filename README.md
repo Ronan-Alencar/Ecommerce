@@ -1,6 +1,6 @@
 # Ecommerce
 
-Data Analysis of Olist Store (Brazilian E-Commerce)
+Data Analysis of Olist Store (Brazilian E-Commerce) /
 Análise de Dados da Olist Store, um e-commerce brasileiro
 
 Got data stored as CSV file so uploaded it to BigQuery for exploratory analysis,
